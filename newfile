@@ -1,5 +1,9 @@
 hello
+<<<<<<< HEAD
 second line
 third line
 
 clone
+=======
+first line
+>>>>>>> parent of 0101721... Update newfile
